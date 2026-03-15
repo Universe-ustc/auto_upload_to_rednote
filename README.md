@@ -57,12 +57,6 @@ cp config.yaml.example config.yaml
 - 内容主题
 - 任务调度时间
 
-### 4. 运行系统
-
-```bash
-python main.py
-```
-
 ## 项目结构
 
 ```
@@ -92,12 +86,6 @@ auto_upload_to_rednote/
 ```
 
 ## 使用指南
-
-### 自动运行
-
-系统启动后会按照 `config.yaml` 中的时间表自动执行任务：
-
-- **09:00** - 运行内容自动化（收集资讯、生成文章）
 
 ### 手动操作
 
@@ -226,12 +214,6 @@ Edit `config.yaml` file to configure:
 - Content topics
 - Task scheduling times
 
-### 4. Run the System
-
-```bash
-python main.py
-```
-
 ## Project Structure
 
 ```
@@ -262,12 +244,6 @@ auto_upload_to_rednote/
 ```
 
 ## Usage Guide
-
-### Automatic Execution
-
-After starting, the system will automatically execute tasks according to the schedule in `config.yaml`:
-
-- **09:00** - Run content automation (collect news, generate articles)
 
 ### Manual Operations
 
