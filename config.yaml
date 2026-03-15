@@ -1,0 +1,14 @@
+# Auto Upload to Xiaohongshu - Configuration
+# Customize this file according to your needs
+
+content_automation:
+  enabled: true
+  platforms:
+    - xiaohongshu
+  topics:
+    - AI Agent Latest Developments
+    - Multi-Agent Systems in Practice
+    - LangChain Agent Development
+    - AutoGPT Usage Guide
+    - Agent Framework Comparison
+  schedule: "daily"

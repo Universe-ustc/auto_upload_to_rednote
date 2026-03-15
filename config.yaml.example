@@ -1,0 +1,14 @@
+# Auto Upload to Xiaohongshu - Configuration
+# Copy this file to config.yaml and customize settings
+
+content_automation:
+  enabled: true
+  platforms:
+    - xiaohongshu
+  topics:
+    - AI Agent Latest Developments
+    - Multi-Agent Systems in Practice
+    - LangChain Agent Development
+    - AutoGPT Usage Guide
+    - Agent Framework Comparison
+  schedule: "daily"
