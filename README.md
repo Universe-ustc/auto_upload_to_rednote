@@ -1,4 +1,4 @@
-# 自动发布到小红书系统
+# 面向小红书的全自动化科技资讯内容生成和发布系统
 
 [English Version](#english-version)
 
