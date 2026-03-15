@@ -84,7 +84,6 @@ auto_upload_to_rednote/
 │   ├── images/                       # Generated images
 │   └── logs/                         # Log files
 ├── main.py                           # Main entry point
-├── publish_now.py                    # Immediate publish script
 ├── review_content.py                 # Content review script
 ├── config.yaml.example               # Configuration template
 ├── .env.example                      # Environment variables template
@@ -101,12 +100,6 @@ auto_upload_to_rednote/
 - **09:00** - 运行内容自动化（收集资讯、生成文章）
 
 ### 手动操作
-
-#### 立即发布文章
-
-```bash
-python publish_now.py
-```
 
 #### 审核待发布文章
 
@@ -277,12 +270,6 @@ After starting, the system will automatically execute tasks according to the sch
 - **09:00** - Run content automation (collect news, generate articles)
 
 ### Manual Operations
-
-#### Publish Article Immediately
-
-```bash
-python publish_now.py
-```
 
 #### Review Pending Articles
 
